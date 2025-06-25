@@ -1,0 +1,13 @@
+echo "# Compiled files
+*.o
+text-editor
+editor
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db" > .gitignore
